@@ -1,0 +1,17 @@
+{
+    "token": "Ur discord token", 
+    "guild_id": 21313132112,
+    "scam_keywords": [
+      "steamcommunity.cfd", 
+      "Steam Gift Activation",
+      "50$ gift",
+      "Free nitro",
+      "Claim free nitro"
+    ],
+    "blocked_user_ids": [],
+    "blocked_channel_ids": [],
+    "active": true ,
+    "ignore_self": false,
+    "scan_on_startup": true
+  }
+  
