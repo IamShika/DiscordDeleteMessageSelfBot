@@ -87,12 +87,12 @@ async def on_message(message):
         print("[▶️] Bot resumed.")
         return
 
-    if message.content.lower() == "!reloadconfig" "!botrefresh" "!botreload" and message.author.id == bot.user.id:
+    if message.content.lower() == "!reloadconfig" or message.content.lower() == "!botrefresh" or message.content.lower() == "!botreload" and message.author.id == bot.user.id:
         reload_config()
         await message.channel.send("🔁 Config reloaded.")
         return
 
-    if message.content.lower() == "!scanpast" "!botscan" and message.author.id == bot.user.id:
+    if message.content.lower() == "!scanpast" or message.content.lower() == "!botscan" and message.author.id == bot.user.id:
         await scan_past_messages()
         await message.channel.send("🔍 Past messages scanned.")
         return
