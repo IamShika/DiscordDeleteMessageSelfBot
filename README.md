@@ -7,6 +7,7 @@ It's a self-bot that runs on your account! This is for educational purpose and m
 Use it with your own risk! I'll not be responsible for any modifications of the bots!
 
 # Run it by :
+ -1. Download this Git as a ZIP
   0. Extract the zip
   1. right-click on the folder
   2. Click "Open in Therminal"
