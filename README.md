@@ -3,7 +3,7 @@
 This is a simple project for a moderator who is a lazy boi and wants to delete the scam message!
 It's a self-bot that runs on your account! This is for educational purpose and moderate purpose only!
 
-⚠️ Warning: Self-bots are against Discord's Terms of Service, and using one can result in your account being permanently banned.
+**⚠️ Warning: Self-bots are against Discord's Terms of Service, and using one can result in your account being permanently banned.**
 Use it with your own risk! I'll not be responsible for any modifications of the bots!
 
 # Run it by :
@@ -45,6 +45,7 @@ This is what "Config.json" inculdes!
     "active": true , << Just for !botpause and !botresume command. Default is true. just leave it be, if set to false, Your bot will need to !botresume every start.
     "ignore_self": false, << Make it ignore your message if you set it to true.
     "scan_on_startup": true << Recommended to be turned on. cuz it'll scan the past message when startup.
+    "Fuzz_threshold" : 75 << this is ratio that check if someone tries to bypass the scam_keywords like example, if someone types "Steam GiftA activation" it will get deleted based on the ratio. defalut is 75.
   }
 
 
@@ -53,8 +54,8 @@ This is what "Config.json" inculdes!
   
   • Phython (Add to PATH too xd)
   
-  • Use "pip install -U git+https://github.com/dolfies/discord.py-self" when first time start-up.
-  
+  • Use "pip install -U git+https://github.com/dolfies/discord.py-self" when first time start-up. (enter that in console
+  * Install FUZZ ( pip install rapidfuzz ) 
   • YOUR DISCORD TOKEN. ( GUIDE : https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6 )
 
 
