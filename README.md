@@ -45,7 +45,7 @@ This is what "Config.json" inculdes!
     "active": true , << Just for !botpause and !botresume command. Default is true. just leave it be, if set to false, Your bot will need to !botresume every start.
     "ignore_self": false, << Make it ignore your message if you set it to true.
     "scan_on_startup": true << Recommended to be turned on. cuz it'll scan the past message when startup.
-    "Fuzz_threshold" : 75 << this is ratio that check if someone tries to bypass the scam_keywords like example, if someone types "Steam GiftA activation" it will get deleted based on the ratio. defalut is 75.
+    "Fuzz_threshold" : 92 << this is ratio that check if someone tries to bypass the scam_keywords like example, if someone types "Steam GiftA activation" it will get deleted based on the ratio. defalut is 92
   }
 
 
@@ -55,7 +55,9 @@ This is what "Config.json" inculdes!
   • Phython (Add to PATH too xd)
   
   • Use "pip install -U git+https://github.com/dolfies/discord.py-self" when first time start-up. (enter that in console
-  * Install FUZZ ( pip install rapidfuzz ) 
+  
+  * Install FUZZ ( pip install rapidfuzz )
+  * 
   • YOUR DISCORD TOKEN. ( GUIDE : https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6 )
 
 
