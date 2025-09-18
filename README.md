@@ -3,6 +3,9 @@
 This is a simple project for a moderator who is a lazy boi and wants to delete the scam message!
 It's a self-bot that runs on your account! This is for educational purpose and moderate purpose only!
 
+The repo name is too long lol sorry, `for phone ver.` go to :
+https://github.com/IamShika/AMDBTERMUX
+
 **⚠️ Warning: Self-bots are against Discord's Terms of Service, and using one can result in your account being permanently banned.**
 Use it with your own risk! I'll not be responsible for any modifications of the bots!
 
