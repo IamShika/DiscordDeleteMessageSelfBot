@@ -2,11 +2,15 @@
     "token": "Ur discord token", 
     "guild_id": 21313132112,
     "scam_keywords": [
-      "steamcommunity.cfd", 
+      "steamcommunity.cfd",
       "Steam Gift Activation",
       "50$ gift",
       "Free nitro",
-      "Claim free nitro"
+      "Claim free nitro",
+      "This is a scamlink.gae6789",
+      "https://leaksdaily.com/?ref=5d681792",
+      "https://media.discordapp.net/attachments/1238944786551931043/1418199201090764860/image.png?ex=68cd406e&is=68cbeeee&hm=dc9be6dc945176262538c4411a367624457dea4f41f1c167fe2e0b4f4"
+    
     ],
     "blocked_user_ids": [],
     "blocked_channel_ids": [],
@@ -14,4 +18,5 @@
     "ignore_self": false,
     "scan_on_startup": true
   }
+
   
