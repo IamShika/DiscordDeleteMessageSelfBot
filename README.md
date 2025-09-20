@@ -58,7 +58,7 @@ This is what "Config.json" inculdes!
   
   • Use "pip install -U git+https://github.com/dolfies/discord.py-self" when first time start-up. (enter that in console
   
-  • YOUR DISCORD TOKEN. ( GUIDE : https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6 )
+  • YOUR DISCORD TOKEN. ( GUIDE : [https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6](https://gist.github.com/oyepriyansh/1be45b722181ec634664410cde244708) )
 
 
 
